@@ -7,7 +7,7 @@ Var
 
 Inicio
 
-      escreva("Digite um número para saber o dia da Semana: ")
+      escreva("Digite um nÃºmero para saber o dia da Semana: ")
       leia(x)
 
       escolha x
@@ -16,7 +16,7 @@ Inicio
       caso 2
            dia <- "Segunda"
       caso 3
-           dia <- "Terça"
+           dia <- "TerÃ§a"
       caso 4
            dia <- "Quarta"
       caso 5
@@ -24,9 +24,9 @@ Inicio
       caso 6
            dia <- "Sexta"
       caso 7
-           dia <- "Sábado"
+           dia <- "SÃ¡bado"
       outrocaso
-           dia <- "Valor Inválido"
+           dia <- "Valor InvÃ¡lido"
       fimescolha
            
       escreval("Dia da semana: ", dia)
