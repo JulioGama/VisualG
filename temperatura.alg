@@ -7,7 +7,7 @@ Var
 
 Inicio
 
-      escreva("Você vai digitar a temperatura em qual escala (C/F)? ")
+      escreva("VocÃª vai digitar a temperatura em qual escala (C/F)? ")
       leia(unidade)
       
       se unidade = "F" entao
