@@ -1,7 +1,7 @@
 Algoritmo "glicose"
 
-//Normal -> Até 100 mg/dl
-//Elevador -> Maior que 100 até 140 mg/dl
+//Normal -> AtÃ© 100 mg/dl
+//Elevador -> Maior que 100 atÃ© 140 mg/dl
 //Diabetes -> Maior de 140 mg/dl
 
 Var
@@ -14,12 +14,12 @@ Inicio
       leia(glicose)
 
       se glicose <= 100 entao
-         escreval("Classificação: Normal")
+         escreval("ClassificaÃ§Ã£o: Normal")
       senao
            se glicose <= 140 entao
-              escreval("Classificação: Elevado")
+              escreval("ClassificaÃ§Ã£o: Elevado")
            senao
-                escreval("Classificação: Diabetes")
+                escreval("ClassificaÃ§Ã£o: Diabetes")
            fimse
       fimse
 
