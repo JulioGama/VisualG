@@ -6,7 +6,7 @@ Var
 
 Inicio
 
-      escreva("Digite as três distâncias: ")
+      escreva("Digite as trÃªs distÃ¢ncias: ")
       leia(d1)
       leia(d2)
       leia(d3)
@@ -21,7 +21,7 @@ Inicio
            fimse
       fimse
       
-      escreval("Maior Distância = ", maiorD:4:2)
+      escreval("Maior DistÃ¢ncia = ", maiorD:4:2)
 
 
 Fimalgoritmo
